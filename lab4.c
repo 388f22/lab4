@@ -9,7 +9,7 @@ void foo(int input)
     return;
 }
 
-int main()
+int _main()
 {
     int var = 3735928550;
     var += 9;
